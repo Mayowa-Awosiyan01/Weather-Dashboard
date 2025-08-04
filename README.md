@@ -14,6 +14,6 @@ Some of the features of this project will be:
 
 ## Tech Stack
 
-- React
+- Next.js
 - Django
 - OpenWeatherMap API
